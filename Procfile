@@ -1,0 +1,1 @@
+web: gunicorn Ve_Tech.wsgi
